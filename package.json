@@ -1,0 +1,23 @@
+{
+  "name": "firebasefundamentals",
+  "version": "1.0.0",
+  "description": "This is a repository to learn firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TedVu/FirebaseFundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TedVu/FirebaseFundamentals/issues"
+  },
+  "homepage": "https://github.com/TedVu/FirebaseFundamentals#readme",
+  "dependencies": {
+    "firebase": "^9.8.4"
+  }
+}
